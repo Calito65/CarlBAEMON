@@ -593,6 +593,21 @@ input:checked + label .description {
 .card[for="c5"] {
     background-image: url('Portfolio Image/Portfolio 5.jpg');
 }
+.card[for="c6"] {
+  background-image: url('Portfolio Image/Portfolio 6.jpg');
+}
+.card[for="c7"] {
+  background-image: url('Portfolio Image/Portfolio 7.png');
+}
+.card[for="c8"] {
+  background-image: url('Portfolio Image/Portfolio 8.png');
+}
+.card[for="c9"] {
+  background-image: url('Portfolio Image/Portfolio 9.PNG');
+}
+.card[for="c10"] {
+  background-image: url('Portfolio Image/Portfolio 10.PNG');
+}
 @media only screen and (max-width: 768px) {
     .container {
       flex-wrap: wrap;
